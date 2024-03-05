@@ -6,6 +6,6 @@
     <title>Page 1</title>
 </head>
 <body>
-    {{"Hello,This is Page 1"}}
+    {{"Xin chào các bạn"}}
 </body>
 </html>
